@@ -2,7 +2,7 @@
 
 ### Hello World, I'm Victor  👋
 
-### I'm a young sofware developer with big expectations on everything i work.
+### I'm a young software developer with big expectations <br /> for everything I work on
 
 - 🔭 I’m currently working on my full stack technical skills.
 - 🌱 I’m currently learning JavaScript
