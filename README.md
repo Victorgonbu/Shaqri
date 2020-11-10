@@ -1,17 +1,12 @@
-<div align="right">
- <summary align="right">:zap: GitHub Stats</summary>
-<br />
-<img align="right" alt="Shaqri's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shaqri&show_icons=true&hide_border=true" />
 
-<summary align="right" >:zap: Most Used Languages</summary>
-<br />
-<img align="right" alt="Shaqri's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaqri" />
-
-</div>
 
 ### Hello World, I'm Victor  👋
 
 ### I'm a young sofware developer with big expectations on everything i work.
+
+<summary align="right">:zap: GitHub Stats</summary>
+<br />
+<img align="right" alt="Shaqri's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shaqri&show_icons=true&hide_border=true" />
 
 - 🔭 I’m currently working on my full stack technical skills.
 - 🌱 I’m currently learning JavaScript
@@ -19,6 +14,9 @@
 - 💬 Ask me about ... anything
 - 😄 Pronouns: He/His
 
+<summary align="right" >:zap: Most Used Languages</summary>
+<br />
+<img align="right" alt="Shaqri's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaqri" />
 
 ### Talk with me
 
