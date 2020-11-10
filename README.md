@@ -7,14 +7,16 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... anything
 - 😄 Pronouns: He/His
-
-<summary align="right">:zap: GitHub Stats</summary>
+<div align="right">
+ <summary align="right">:zap: GitHub Stats</summary>
 <br />
 <img align="right" alt="Shaqri's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shaqri&show_icons=true&hide_border=true" />
 
 <summary align="right" >:zap: Most Used Languages</summary>
 <br />
 <img align="right" alt="Shaqri's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaqri" />
+
+</div>
 
 
 ### Talk with me
