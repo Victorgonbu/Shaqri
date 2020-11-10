@@ -1,12 +1,3 @@
-### Hello World, I'm Victor  👋
-
-### I'm a young sofware developer with big expectations on everything i work.
-
-- 🔭 I’m currently working on my full stack technical skills.
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... anything
-- 😄 Pronouns: He/His
 <div align="right">
  <summary align="right">:zap: GitHub Stats</summary>
 <br />
@@ -17,6 +8,16 @@
 <img align="right" alt="Shaqri's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaqri" />
 
 </div>
+
+### Hello World, I'm Victor  👋
+
+### I'm a young sofware developer with big expectations on everything i work.
+
+- 🔭 I’m currently working on my full stack technical skills.
+- 🌱 I’m currently learning JavaScript
+- 👯 I’m looking to collaborate on open source
+- 💬 Ask me about ... anything
+- 😄 Pronouns: He/His
 
 
 ### Talk with me
