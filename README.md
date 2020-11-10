@@ -2,7 +2,7 @@
 
 <summary align="right">:zap: GitHub Stats</summary>
 
-<img align="right" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
+<img align="right" alt="Shaqri's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shaqri&show_icons=true&hide_border=true" />
 
 I'm a young sofware developer with big expectations on everything i work on.
 
