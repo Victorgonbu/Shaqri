@@ -31,9 +31,8 @@ I'm a young sofware developer with big expectations on everything i work on.
 <br />
 <br />
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
   <img align="right" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arsentieva&show_icons=true&hide_border=true" />
 
-</details>
