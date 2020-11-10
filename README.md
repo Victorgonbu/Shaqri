@@ -4,9 +4,6 @@
 
 ### I'm a young software developer with <br /> big expectations for everything I work on
 
-<summary align="right">:zap: GitHub Stats</summary>
-<img align="right" alt="Shaqri's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shaqri&show_icons=true&hide_border=true" />
-
 - 🔭 I’m currently working on my full stack technical skills.
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on open source
@@ -37,11 +34,17 @@
 <br />
 
 <details>
+  <summary align="right">:zap: GitHub Stats</summary>
+  
+  <img align="right" alt="Shaqri's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shaqri&show_icons=true&hide_border=true" />
+</details>
+
+<details>
   <summary>:zap: Most Used Languages</summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaqri" />
-
+  <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaqri" />
 </details>
+
 
 [instagram]: https://www.instagram.com/21bgv1/
 [linkedin]: https://www.linkedin.com/in/victor-manuel-gonzalez-buitrago/
