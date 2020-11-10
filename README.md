@@ -4,7 +4,7 @@
 <br />
 <img align="right" alt="Shaqri's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shaqri&show_icons=true&hide_border=true" />
 
-I'm a young sofware developer with big expectations on everything i work on.
+### I'm a young sofware developer with big expectations on everything i work on.
 
 - 🔭 I’m currently working on my full stack technical skills.
 - 🌱 I’m currently learning JavaScript
@@ -12,13 +12,12 @@ I'm a young sofware developer with big expectations on everything i work on.
 - 💬 Ask me about ... anything
 - 😄 Pronouns: He/His
 
-
-### Talk with me
-
 <summary align="right" >:zap: Most Used Languages</summary>
 <br />
 <img align="right" alt="Shaqri's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaqri" />
 
+
+### Talk with me
 
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
