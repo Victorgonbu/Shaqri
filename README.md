@@ -17,7 +17,7 @@ I'm a young sofware developer with big expectations on everything i work on.
 
 <summary align="right" >:zap: Most Used Languages</summary>
 
-<img align="left" alt="Shaqri's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaqri" />
+<img align="right" alt="Shaqri's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaqri" />
 
 
 [<img align="right" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
