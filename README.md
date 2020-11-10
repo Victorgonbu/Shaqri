@@ -4,15 +4,15 @@
 
 ### I'm a young software developer with big expectations <br /> for everything I work on
 
+<summary align="right">:zap: GitHub Stats</summary>
+<br /><img align="right" alt="Shaqri's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shaqri&show_icons=true&hide_border=true" />
+
 - 🔭 I’m currently working on my full stack technical skills.
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... anything
 - 😄 Pronouns: He/His
 
-<summary align="right">:zap: GitHub Stats</summary>
-<br />
-<img align="right" alt="Shaqri's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shaqri&show_icons=true&hide_border=true" />
 
 ### Talk with me
 
