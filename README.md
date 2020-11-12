@@ -10,6 +10,9 @@
 - 💬 Ask me about ... anything
 - 😄 Pronouns: He/His
 
+<div align="right">
+![crayon riding bike](crayon-riding-bike.png)
+</div>
 
 ### Talk with me anytime
 
