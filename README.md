@@ -1,19 +1,26 @@
+### Hi there, I'm Victor - aka [Shaqri][website] 👋  
 
 
-### Hello World, I'm Victor  👋
-
-### I'm a young software developer with <br /> big expectations for everything I work on
+## I'm a Full Stack Developer
 
 - 🔭 I’m currently working on my full stack technical skills.
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... anything
-- 😄 Pronouns: He/His
-
+- 🌱 I’m currently learning everything 
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Talk with me anytime
 
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Shaqri's Spotify Playing" width="350" />](https://open.spotify.com/user/12147696421)
+
+### Connect with me:
+
+[<img align="left" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Victor's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Victor's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -30,8 +37,16 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/Shaqri)
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
 
+
 <br />
 <br />
+
+---
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Don't let your users go away](https://medium.com/@victormanuelgonzale/dont-let-you-users-go-away-ux-basics-230babfa6840)
+
 
 <details>
   <summary align="left">:zap: GitHub Stats</summary>
@@ -39,13 +54,20 @@
   <img align="left" alt="Shaqri's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shaqri&show_icons=true&hide_border=true" />
 </details>
 
+
 <details>
+
   <summary>:zap: Most Used Languages</summary>
 
-  <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaqri" />
+  <img align="left" alt="Shaqri's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaqri" />
+ 
+
 </details>
+
 
 
 [instagram]: https://www.instagram.com/21bgv1/
 [linkedin]: https://www.linkedin.com/in/victor-manuel-gonzalez-buitrago/
+[website]: https://shaqri.github.io/Portfolio/
+[twitter]: https://twitter.com/victorgonbu1
 
