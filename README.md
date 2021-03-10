@@ -3,7 +3,7 @@
 
 ## I'm a Full Stack Developer
 
-- 🔭 I’m currently working on my full stack technical skills.
+- 🔭 I’m currently finishing my couserwork at Microverse.
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
