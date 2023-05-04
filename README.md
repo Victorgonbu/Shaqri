@@ -3,9 +3,6 @@
 
 ## I'm a Full Stack Developer
 
-- 🌱 I’m currently working as RoR backend dev
-- 👯 I’m looking to collaborate with other content creators
-
 ### Connect with me:
 
 [<img align="left" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
