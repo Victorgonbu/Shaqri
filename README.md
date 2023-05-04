@@ -1,4 +1,4 @@
-### Hi there, I'm Victor - aka [Shaqri][website] 👋  
+### Hi there, I'm Victor👋  
 
 
 ## I'm a Full Stack Developer
