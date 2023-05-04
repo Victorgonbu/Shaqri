@@ -54,10 +54,6 @@
 
 </details>
 
-
-
-[instagram]: https://www.instagram.com/21bgv1/
 [linkedin]: https://www.linkedin.com/in/victor-manuel-gonzalez-buitrago/
 [website]: https://shaqri.github.io/Portfolio/
-[twitter]: https://twitter.com/victorgonbu1
 
