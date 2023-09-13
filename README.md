@@ -1,7 +1,7 @@
 ### Hi there, I'm Victor👋  
 
 
-## I'm a Full Stack Developer
+## I'm a Backend Developer
 
 ### Connect with me:
 
